@@ -9,6 +9,9 @@ function App() {
         <ChandraSurya />
       </div>
       <NepalOutline />
+      <div className="text">
+        <p>National Democracy Day 2078</p>
+      </div>
     </div>
   );
 }
